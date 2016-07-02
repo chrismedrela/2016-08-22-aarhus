@@ -33,15 +33,15 @@ swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/chrismedrela/2016-08-22-aarhus"
+workshop_site: "https://chrismedrela.github.io/2016-08-22-aarhus"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
 post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
 
 # Start time in minutes (540 is 09:00 am)
-start_time: 540
+start_time: 510
 
 # Specify that things in the episodes collection should be output.
 collections:
