@@ -9,14 +9,14 @@ carpentry: "swc"
 kind: "workshop"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Software Carpentry Workshop in Aarhus"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/swcarpentry/workshop-template
+repo: https://github.com/chrismedrela/2016-08-22-aarhus
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://swcarpentry.github.io/lesson-example', use '/lesson-example'.
-root: "/workshop-template"
+root: "/2016-08-22-aarhus"
 
 # Contact email address.
 email: lessons@software-carpentry.org
