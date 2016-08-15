@@ -29,6 +29,8 @@ email: lessons@software-carpentry.org
 amy_site: "https://amy.software-carpentry.org/workshops"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
+swc_github_io: "https://swcarpentry.github.io"
+swc_installer: "https://github.com/swcarpentry/windows-installer"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
